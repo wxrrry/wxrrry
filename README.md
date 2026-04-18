@@ -38,9 +38,6 @@ const wxrrry = {
 <a href="https://github.com/wxrrry/TriqEventsHub-Pugin-for-MINECRAFT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=TriqEventsHub-Pugin-for-MINECRAFT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/wxrrry/database-management-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=database-management-automation&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
 
 </div>
 
