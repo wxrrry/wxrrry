@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+cool+stuff+with+code+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Java+%7C+Electron;Minecraft+Plugin+Developer+%E2%9A%94%EF%B8%8F)](https://github.com/wxrrry)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+cool+stuff+with+code+%F0%9F%9A%80;TypeScript+%7C+React+%7C+Java+%7C+Electron;Windows+Desktop+Tools+%C2%B7+WinHealthAudit;Minecraft+Plugin+Developer+%E2%9A%94%EF%B8%8F)](https://github.com/wxrrry)
 
 [![Location](https://img.shields.io/badge/📍_Morioh-black?style=for-the-badge)](https://github.com/wxrrry)
 [![Profile](https://img.shields.io/badge/🔗_guns.lol/wxrry-white?style=for-the-badge&logoColor=white)](https://guns.lol/wxrry)
@@ -17,9 +17,10 @@
 ```typescript
 const wxrrry = {
     desktop:    "Electron + React + TypeScript productivity tools",
+    windows:    "WinHealthAudit — one-exe system audit tool (C# + PowerShell + JS)",
     minecraft:  "Custom server plugins (NPC, Events) for Paper/Spigot",
     web:        "PHP backends, HTML/CSS frontends, automation",
-    current:    "🎯 Focusing on Vanta Flow & TRIQ plugins"
+    current:    "🎯 Focusing on WinHealthAudit, Vanta Flow & TRIQ plugins"
 };
 ```
 
@@ -29,6 +30,9 @@ const wxrrry = {
 
 <div align="center">
 
+<a href="https://github.com/wxrrry/ESLL-WinHealthAudit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=ESLL-WinHealthAudit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
+</a>
 <a href="https://github.com/wxrrry/Vanta-Flow---Tasks-and-habits">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=Vanta-Flow---Tasks-and-habits&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
 </a>
@@ -48,6 +52,10 @@ const wxrrry = {
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,react,electron,java,php,python,html,css,mysql,webpack,git,vscode&perline=6&theme=dark" />
+
+[![C#](https://img.shields.io/badge/C%23-.NET%20Framework-239120?style=for-the-badge&logo=sharp&logoColor=white)](https://github.com/wxrrry/ESLL-WinHealthAudit)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/wxrrry/ESLL-WinHealthAudit)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/wxrrry/ESLL-WinHealthAudit)
 
 </div>
 
