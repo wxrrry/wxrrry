@@ -4,6 +4,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Writing+code,+breaking+things+%26+building+cool+stuff+%E2%9C%A8;Desktop+Apps+%C2%B7+Electron+%C2%B7+React+%C2%B7+TypeScript;Native+Windows+Utilities+%C2%B7+C%23+%26+.NET;Game+Mods+%C2%B7+Minecraft+Plugins+%C2%B7+Bots+%C2%B7+Tooling;Always+exploring+something+new+%F0%9F%9A%80)](https://github.com/wxrrry)
 
+<pre align="center">
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠟⠛⠛⠉⠉⠉⠉⠛⠛⠿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠟⠉⠄⠄⠄⠄⢀⣀⣀⡀⠄⠄⠄⠈⠹⣿⣿⣿⣿⣿
+⣿⣿⣿⣥⡤⠶⠶⠿⣿⠛⣿⣿⡿⢿⠛⣿⠻⠶⠶⢤⣿⣿⣿⣿
+⣿⣿⣿⣦⣀⠄⠄⠄⢻⣆⠘⠛⠄⠄⣰⡟⠄⠄⠄⢀⣬⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣷⣦⣄⣙⣻⣶⣶⣟⣋⣀⣤⣶⡾⠋⠁⣸⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢋⣤⠞⣰⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠛⠛⣛⣭⣴⣶⡟⢋⣶⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⣿⣿⢉⣴⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+</pre>
+
 [![Location](https://img.shields.io/badge/📍_Morioh-black?style=for-the-badge)](https://github.com/wxrrry)
 [![Profile](https://img.shields.io/badge/🔗_guns.lol/wxrry-161b22?style=for-the-badge&logoColor=white)](https://guns.lol/wxrry)
 [![Telegram](https://img.shields.io/badge/Telegram-@embrasselune-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/embrasselune)
