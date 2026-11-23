@@ -1,10 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0d1117,100:161b22&height=220&section=header&text=wxrrry&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Low-Level%20Systems%20%7C%20Graphics%20%26%20Shaders%20%7C%20Reverse%20Engineering%20%7C%20Full-Stack&descSize=16&descColor=8b949e&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=220&section=header&text=wxrrry&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20·%20Desktop%20%26%20Web%20·%20Creative%20Engineer&descSize=16&descColor=8b949e&descAlignY=58" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Low-level+systems+%26+reverse+engineering+%F0%9F%95%B9%EF%B8%8F;Leonida+Contributor+(%23185)+%E2%80%94+RDNA2+%7C+SPIR-V+%7C+Vulkan;Building+3D+Asset+Studio+%26+native+Windows+tools+%F0%9F%9A%80;Python+%C2%B7+C%2B%2B+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Java)](https://github.com/wxrrry)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Writing+code,+breaking+things+%26+building+cool+stuff+%E2%9C%A8;Desktop+Apps+%C2%B7+Electron+%C2%B7+React+%C2%B7+TypeScript;Native+Windows+Utilities+%C2%B7+C%23+%26+.NET;Game+Mods+%C2%B7+Minecraft+Plugins+%C2%B7+Bots+%C2%B7+Tooling;Always+exploring+something+new+%F0%9F%9A%80)](https://github.com/wxrrry)
 
-[![Leonida Contributor](https://img.shields.io/badge/Leonida_Contributor-%23185-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ItsNotRexed/Leonida)
 [![Location](https://img.shields.io/badge/📍_Morioh-black?style=for-the-badge)](https://github.com/wxrrry)
 [![Profile](https://img.shields.io/badge/🔗_guns.lol/wxrry-161b22?style=for-the-badge&logoColor=white)](https://guns.lol/wxrry)
 [![Telegram](https://img.shields.io/badge/Telegram-@embrasselune-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/embrasselune)
@@ -14,69 +13,67 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🛠 What I Do
+### 💭 About Me
 
 ```typescript
 const wxrrry = {
-    focus: [
-        "Systems Engineering & Native Tooling",
-        "Graphics & Shaders (RDNA2 ISA / SPIR-V / Vulkan / DXGI)",
-        "RAGE Engine & Asset Pipeline Reverse Engineering"
-    ],
-    contributions: "ItsNotRexed/Leonida (GTA VI PC Recompilation) — Contributor #185",
-    coreProjects: {
-        assetStudio:  "leonida-asset-pipeline (3D Studio, WebGL Viewer & BCPack tools)",
-        diagnostics:  "ESLL-WinHealthAudit (C# / .NET standalone Windows system health check)",
-        productivity: "Vanta Flow (Electron + React + TypeScript tasks & habits tracker)",
-        automation:   "AITU Schedule Bot (Node.js Telegram bot with schedule tracking)",
-        gamePlugins:  "TriqNPC & TriqEventsHub (Advanced Java Minecraft plugins)"
+    role:        "Full-Stack & Systems Tinkerer",
+    interests:   ["Desktop Applications", "Systems Programming", "Reverse Engineering", "Game Tech", "Automation"],
+    crafting: {
+        desktop:    "Electron + React + TypeScript productivity suites",
+        windows:    "C# / .NET system diagnostics & native utilities",
+        minecraft:  "High-performance Paper/Spigot plugins & mechanics",
+        web_bots:   "Telegram bots, automated workflows & web tools",
+        experiments:"Graphics shaders, 3D viewers & format parsers"
     },
-    technologies: ["Python", "C++", "C# / .NET", "TypeScript", "Vulkan", "React", "Electron", "Java"]
+    philosophy:  "If it works, optimize it. If it doesn't, disassemble it.",
+    status:      "Turning random ideas into working software ☕"
 };
 ```
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📌 Featured Projects
+### 📌 Featured Repositories
 
 <div align="center">
 
-<a href="https://github.com/wxrrry/leonida-asset-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=leonida-asset-pipeline&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
+<a href="https://github.com/wxrrry/Vanta-Flow---Tasks-and-habits">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=Vanta-Flow---Tasks-and-habits&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
 </a>
 <a href="https://github.com/wxrrry/ESLL-WinHealthAudit">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=ESLL-WinHealthAudit&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
 </a>
-<a href="https://github.com/wxrrry/Vanta-Flow---Tasks-and-habits">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=Vanta-Flow---Tasks-and-habits&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
-</a>
 <a href="https://github.com/wxrrry/aitu-schedule-bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=aitu-schedule-bot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
 </a>
+<a href="https://github.com/wxrrry/TriqNPC-Pugin-for-MINECRAFT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wxrrry&repo=TriqNPC-Pugin-for-MINECRAFT&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=8b949e" />
+</a>
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### ⚡ Tech Stack & Tools
+### ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,react,electron,java,php,html,css,mysql,git,vscode,linux,windows&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,electron,python,cs,cpp,java,php,html,css,mysql,git,vscode,windows,linux&perline=8&theme=dark" />
 
 <br/>
 
-[![Vulkan](https://img.shields.io/badge/Vulkan-Graphics_%26_Compute-red?style=for-the-badge&logo=vulkan&logoColor=white)](https://vulkan.org)
-[![SPIR-V](https://img.shields.io/badge/SPIR--V-Shader_Translation-blue?style=for-the-badge&logo=khronosgroup&logoColor=white)](https://www.khronos.org/spir/)
-[![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-black?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org)
-[![.NET](https://img.shields.io/badge/.NET-C%23_Windows_Tools-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
-[![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/wxrrry)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
@@ -103,4 +100,4 @@ const wxrrry = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:0d1117,100:161b22&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=120&section=footer" />
