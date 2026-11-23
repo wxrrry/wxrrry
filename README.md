@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Writing+code,+breaking+things+%26+building+cool+stuff+%E2%9C%A8;Desktop+Apps+%C2%B7+Electron+%C2%B7+React+%C2%B7+TypeScript;Native+Windows+Utilities+%C2%B7+C%23+%26+.NET;Game+Mods+%C2%B7+Minecraft+Plugins+%C2%B7+Bots+%C2%B7+Tooling;Always+exploring+something+new+%F0%9F%9A%80)](https://github.com/wxrrry)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Writing+code,+breaking+things+%26+building+cool+stuff+%E2%9C%A8;Rust+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+C%2B%2B+%C2%B7+C%23;Desktop+Apps+%C2%B7+Electron+%C2%B7+React+%C2%B7+Java;Native+Windows+Utilities+%C2%B7+Game+Tech+%C2%B7+Bots;Always+exploring+something+new+%F0%9F%9A%80)](https://github.com/wxrrry)
 
 <pre align="center">
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -32,17 +32,18 @@
 
 ```typescript
 const wxrrry = {
-    role:        "Full-Stack & Systems Tinkerer",
-    interests:   ["Desktop Applications", "Systems Programming", "Reverse Engineering", "Game Tech", "Automation"],
+    role:         "Full-Stack & Systems Tinkerer",
+    interests:    ["Desktop Applications", "Systems Programming", "Reverse Engineering", "Game Tech", "Automation"],
     crafting: {
-        desktop:    "Electron + React + TypeScript productivity suites",
-        windows:    "C# / .NET system diagnostics & native utilities",
-        minecraft:  "High-performance Paper/Spigot plugins & mechanics",
-        web_bots:   "Telegram bots, automated workflows & web tools",
-        experiments:"Graphics shaders, 3D viewers & format parsers"
+        desktop:     "Electron + React + TypeScript productivity suites",
+        windows:     "C# / .NET system diagnostics & native utilities",
+        minecraft:   "High-performance Paper/Spigot plugins & mechanics",
+        web_bots:    "Telegram bots, automated workflows & web tools",
+        experiments: "Graphics shaders, 3D viewers & format parsers"
     },
-    philosophy:  "If it works, optimize it. If it doesn't, disassemble it.",
-    status:      "Turning random ideas into working software ☕"
+    technologies: ["Rust", "Python", "TypeScript", "C++", "C# / .NET", "React", "Java", "Electron"],
+    philosophy:   "If it works, optimize it. If it doesn't, disassemble it.",
+    status:       "Turning random ideas into working software ☕"
 };
 ```
 
@@ -73,10 +74,11 @@ const wxrrry = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,electron,python,cs,cpp,java,php,html,css,mysql,git,vscode,windows,linux&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,ts,react,electron,python,cs,cpp,java,php,html,css,mysql,git,vscode,windows,linux&perline=8&theme=dark" />
 
 <br/>
 
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
